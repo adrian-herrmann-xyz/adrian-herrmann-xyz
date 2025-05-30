@@ -1,4 +1,4 @@
-# Adrian Herrmann | Aspiring Teleinformatics Engineer & Software Developer
+# Aspiring Teleinformatics Engineer & Software Developer
 ## 📋 Table of Contents
 
 * [👋 About Me](#-about-me)
