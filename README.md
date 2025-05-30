@@ -2,7 +2,7 @@
 ## 📋 Table of Contents
 
 * [👋 About Me](#-about-me)
-* [🛠️ Technical Acumen & Proficiencies](#-technical-acumen--proficiencies)
+* [🛠️ Technical Acumen & Proficiencies](#%EF%B8%8F-technical-acumen--proficiencies)
 * [🚀 Flagship Projects](#-flagship-projects)
 * [🎓 Formal Education & Professional Certifications](#-formal-education--professional-certifications)
 * [💼 Professional Engagements](#-professional-engagements)
@@ -70,7 +70,7 @@ I am an undergraduate student pursuing a Bachelor of Engineering in **Teleinform
 *   *Development Period: August 2020 – Present*
 *   A custom-engineered operating system I developed, featuring a proprietary bootloader and FAT32 file system support. This project underscores **my** capabilities in low-level systems programming, OS architecture, and direct hardware interaction.
 
-### Minesweeper (C++23, OpenGL)
+### Minesweeper (C++, OpenGL)
 *   *Development Period: October 2024 - January 2025*
 *   A classic Minesweeper game I implemented in C++23, utilizing OpenGL for 2D graphics rendering. This project encompasses the complete game logic, including random minefield generation, and an interactive graphical user interface. Through Minesweeper, I demonstrated **my** skills in algorithmic problem-solving, 2D graphics programming with OpenGL, event handling, and modular software design.
 
