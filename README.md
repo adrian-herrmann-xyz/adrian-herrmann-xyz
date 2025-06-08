@@ -119,5 +119,5 @@ I am an undergraduate student pursuing a Bachelor of Engineering in **Teleinform
 
 [![Top Langs](https://github-readme-stats-two-red-56.vercel.app/api/top-langs/?username=adrian-herrmann-xyz&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub Stats](https://github-readme-stats-two-red-56.vercel.app/api?username=adrian-herrmann-xyz&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-two-red-56.vercel.app/api?username=adrian-herrmann-xyz&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
